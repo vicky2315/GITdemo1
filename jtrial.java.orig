@@ -1,0 +1,11 @@
+class jtrial
+{
+    public static void main(String args{})
+    {
+<<<<<<< HEAD
+        System.out.println("Please work for god sake");
+=======
+        System.out.println("Please work it will you please shut the fuck up..!!");
+>>>>>>> f93d5738107ed4629739f8f70948e4a3ba1356cd
+    }
+}
